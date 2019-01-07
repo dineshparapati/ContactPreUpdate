@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactPreUpdate", "ContactPreUpdate\ContactPreUpdate.csproj", "{F45752E9-2EF4-4A00-87A7-3092723658DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMPackage", "CRMPackageDeploymentTemplate1\CRMPackage.csproj", "{170C0103-3F94-4896-9062-6314167F596A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45752E9-2EF4-4A00-87A7-3092723658DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45752E9-2EF4-4A00-87A7-3092723658DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45752E9-2EF4-4A00-87A7-3092723658DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45752E9-2EF4-4A00-87A7-3092723658DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170C0103-3F94-4896-9062-6314167F596A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170C0103-3F94-4896-9062-6314167F596A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170C0103-3F94-4896-9062-6314167F596A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170C0103-3F94-4896-9062-6314167F596A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA793EC-0722-460E-855A-A34218E188D3}
+	EndGlobalSection
+EndGlobal
