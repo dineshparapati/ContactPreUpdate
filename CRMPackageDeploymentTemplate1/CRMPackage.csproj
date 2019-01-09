@@ -191,7 +191,9 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="PkgFolder\ContactPreUpdate_1_0_01_managed.zip" />
+    <None Include="PkgFolder\ContactPreUpdate_1_0_01_managed.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
